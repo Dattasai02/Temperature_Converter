@@ -1,4 +1,4 @@
-# Temperature_converter
+# Temperature_Converter
 
 It is a website where it converts temperature from one unit to another unit.
 
